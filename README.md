@@ -1,6 +1,7 @@
 # 👋 안녕하세요, 저는 이현건입니다!
 
-![현건's GitHub 배너](https://your-image-link.com) <!-- 배너 이미지 링크 -->
+![header](https://capsule-render.vercel.app/api?height=400&text=현건's%20Dev%20Story&desc=매일%20조금씩%20성장하는%20개발자&color=gradient)
+
 
 ### 👤 **About Me**
 - 생년월일: 1994.07.01  
@@ -60,8 +61,7 @@
 ---
 
 ## 📫 연락처
-- **이메일**: [youremail@example.com](mailto:youremail@example.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **이메일**: [dlgusrjs07@naver.com](mailto:dlgusrjs07@naver.com)  
 - **포트폴리오**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
