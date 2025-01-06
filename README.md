@@ -53,9 +53,9 @@
 ---
 
 ## 📊 GitHub 통계
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlgusrjs940701&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgusrjs940701&layout=compact&theme=radical)
 
 ---
 
