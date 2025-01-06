@@ -1,4 +1,5 @@
-## Hi there 👋
+## 안녕하세요! 저는 이현건입니다 ! 👋
+
 
 <!--
 **dlgusrjs940701/dlgusrjs940701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
