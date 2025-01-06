@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 저는 이현건입니다!
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20Hyungeon's%20GitHub&fontAlign=30&fontSize=30&desc=%F0%9F%9A%80%20%F0%9F%92%BB&descAlign=60&descAlignY=50&theme=default)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to%20Hyungun's%20GitHub&fontAlign=30&fontSize=30&desc=%F0%9F%9A%80%20%F0%9F%92%BB&descAlign=60&descAlignY=50&theme=default)
 
 
 
