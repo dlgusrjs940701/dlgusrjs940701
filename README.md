@@ -50,6 +50,7 @@
   - [Petit Cure Project](https://github.com/dlgusrjs940701/Petit_cure)  
   - [Cafe Kiosk Project](https://github.com/dlgusrjs940701/JavaProject)  
 
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=success&label=Visitors&query=count&url=http://localhost:3000/visitor)
 
 
 ---
