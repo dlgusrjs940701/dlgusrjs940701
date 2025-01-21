@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to Hyungun's GitHub!
+# 👋 Hello and welcome to my GitHub!
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Hyungun's%20GitHub&fontAlign=50&fontSize=40&height=250&desc=%F0%9F%9A%80%20Explore%20My%20Projects!&descAlign=50&descAlignY=65)
 
