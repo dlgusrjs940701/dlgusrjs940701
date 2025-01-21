@@ -44,9 +44,13 @@
 
 ---
 
-## 🌐 Let's Connect
-- **Email**: [dlgusrjs07@naver.com](mailto:dlgusrjs07@naver.com)  
-- **Portfolio**: [View My Work](#) <!-- 링크를 추가하세요 -->
+## 🌐 Get in Touch
+- ✉️ **Email**: [dlgusrjs07@naver.com](mailto:dlgusrjs07@naver.com)  
+- 🌍 **Portfolio**:  
+  - [Petit Cure Project](https://github.com/dlgusrjs940701/Petit_cure)  
+  - [Cafe Kiosk Project](https://github.com/dlgusrjs940701/JavaProject)  
+
+
 
 ---
 
