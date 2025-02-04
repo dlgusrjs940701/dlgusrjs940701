@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 제 이름은 이현건입니다!  
+# 👋 안녕하세요! 환영합니다!  
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome%20to%20Hyungun's%20GitHub&fontAlign=50&fontSize=40&height=250&desc=%F0%9F%9A%80%20Explore%20My%20Projects!&descAlign=50&descAlignY=65)  
 
@@ -14,6 +14,7 @@
 
 ### **📌 Languages & Databases | 프로그래밍 언어 & 데이터베이스**  
 ![Java](https://img.shields.io/badge/Java-FF6F00?style=flat-square&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
@@ -44,7 +45,7 @@
 
 ---
 
-## 🌐 Get in Touch |  
+## 🌐 Get in Touch | **연락하기**  
 - ✉️ **이메일**: [dlgusrjs07@naver.com](mailto:dlgusrjs07@naver.com)  
 - 🌍 **포트폴리오 프로젝트**:  
   - [Petit Cure 프로젝트](https://github.com/dlgusrjs940701/Petit_cure)  
@@ -52,7 +53,7 @@
 
 ---
 
-> ✨ _"배움을 멈추지 마세요. 삶은 끝없이 가르쳐 주니까요."_ ✨  
+> ✨ _"Never stop learning because life never stops teaching."_ ✨ 
 
 🎉 **방문해 주셔서 감사합니다!** 🚀  
-끊임없이 학습하고 배움을 통해 더 나은 개발자로 성장하겠습니다 ! 🚀  
+함께 성장하며 더 나은 개발자로 나아가길 기대합니다! 🚀  
